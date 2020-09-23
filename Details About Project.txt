@@ -1,0 +1,9 @@
+Program and code created by Aries.
+
+This program came before my HabboSniffer.ocx
+(Not Released but some might of heard about it) 
+and it does the same thing as habbosniffer.ocx 
+does but all the code is in the executeable with 
+a nice layout. If you wanna see how I used the 
+socket compoments to communicate with the 3d chat 
+check this program out.
